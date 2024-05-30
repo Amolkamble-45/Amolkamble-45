@@ -2,8 +2,6 @@
 
 # Welcome to My GitHub Profile! 👋
 
-![Header](https://yourimageurl.com)
-
 Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with over 2.5 years of hands-on experience in creating impactful solutions. I'm proficient in Python programming and its associated libraries for application development, data analysis, and visualization. I have a strong background in machine learning and a foundational knowledge of deep learning. I am eager to leverage my Python expertise to drive innovation and develop high-quality applications.
 
 ---
@@ -113,7 +111,5 @@ Graduated with distinction, achieving an impressive 79%, reflecting a strong com
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=website&logoColor=white)](https://yourwebsite.com)
 
 ---
-
-
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or just chat about tech. 😊
 
