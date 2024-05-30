@@ -34,14 +34,6 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 
 ---
 
-## 📊 GitHub Stats
-
-![Amol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ## 💼 Experience
 
 ### Python Developer | Data Science Enthusiast
