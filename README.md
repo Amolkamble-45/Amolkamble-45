@@ -56,11 +56,11 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 
 ## 📂 My Projects
 
-![Translation Suite](https://progress-bar.dev/90/?title=Translation%20Suite)
-![Tender BOT](https://progress-bar.dev/80/?title=Tender%20BOT)
-![IPL Match Winner Prediction](https://progress-bar.dev/85/?title=IPL%20Match%20Winner%20Prediction)
-![Smart AMM](https://progress-bar.dev/75/?title=Smart%20AMM)
-![Proactive Monitoring](https://progress-bar.dev/87/?title=Proactive%20Monitoring)
+![Translation Suite](https://title=Translation%20Suite)
+![Tender BOT](https:/title=Tender%20BOT)
+![IPL Match Winner Prediction](https://title=IPL%20Match%20Winner%20Prediction)
+![Smart AMM](https://title=Smart%20AMM)
+![Proactive Monitoring](https://title=Proactive%20Monitoring)
 
 ---
 
