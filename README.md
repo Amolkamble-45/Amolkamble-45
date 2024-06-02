@@ -32,6 +32,7 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 ---
 
 📊 Data Science and Analysis:
+
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-05122A?style=flat)
@@ -39,6 +40,7 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 ---
 
 🤖 Machine Learning and NLP:
+
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=tensorflow)
 ![NLP](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=nlp)
@@ -47,12 +49,14 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 ---
 
 🚀 Web Development:
+
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 
 ---
 
 🧠 Generative AI:
+
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A?style=flat)
 ![Lang Chain](https://img.shields.io/badge/-Lang%20Chain-05122A?style=flat)
 
