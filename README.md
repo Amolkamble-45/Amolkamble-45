@@ -17,7 +17,9 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 - ⚡ Fun fact: I love playing cricket in my free time!
 
 ---
+
 ⚙️ Programming Languages and Tools:  
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql) 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5) 
@@ -30,29 +32,29 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 ---
 
 📊 Data Science and Analysis:
-  - ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-  - ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-  - ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-05122A?style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-05122A?style=flat)
 
 ---
 
 🤖 Machine Learning and NLP:
-  - ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)
-  - ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=tensorflow)
-  - ![NLP](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=nlp)
-  - ![Azure Cognitive Services](https://img.shields.io/badge/-Azure%20Cognitive%20Services-05122A?style=flat&logo=microsoft)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=tensorflow)
+![NLP](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=nlp)
+![Azure Cognitive Services](https://img.shields.io/badge/-Azure%20Cognitive%20Services-05122A?style=flat&logo=microsoft)
 
 ---
 
 🚀 Web Development:
-  - ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-  - ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 
 ---
 
 🧠 Generative AI:
-  - ![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A?style=flat)
-  - ![Lang Chain](https://img.shields.io/badge/-Lang%20Chain-05122A?style=flat)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A?style=flat)
+![Lang Chain](https://img.shields.io/badge/-Lang%20Chain-05122A?style=flat)
 
 
 ## 💼 Experience
