@@ -17,39 +17,42 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 - ⚡ Fun fact: I love playing cricket in my free time!
 
 ---
-### 🛠️ Technical Skills
+⚙️ Programming Languages and Tools:
+  - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+  - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
+  - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+  - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+  - ![Git/GitLab](https://img.shields.io/badge/-Git/GitLab-05122A?style=flat&logo=git)
+  - ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
+  - ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+  - ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+---
 
-| Skill                 | Badge                                                                                      |
-|-----------------------|-------------------------------------------------------------------------------------------|
-| Python                | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)             |
-| Machine Learning      | ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikit-learn) |
-| NLP                   | ![NLP](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=nlp)                       |
-| Azure Cognitive Svcs  | ![Azure Cognitive Services](https://img.shields.io/badge/-Azure%20Cognitive%20Services-05122A?style=flat&logo=microsoft) |
-| FastAPI               | ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)           |
-| SQL                   | ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)                     |
-| Flask                 | ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)                 |
-| Git                   | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)                         |
-| Deep Learning         | ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=tensorflow) |
-| Generative AI         | ![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A)                       |
-| Lang Chain            | ![Lang Chain](https://img.shields.io/badge/-Lang%20Chain-05122A)                             |
-
-
-
-## 🛠️ Technical Skills
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikit-learn)
-![NLP](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=nlp)
-![Azure Cognitive Services](https://img.shields.io/badge/-Azure%20Cognitive%20Services-05122A?style=flat&logo=microsoft)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=tensorflow)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A)
-![Lang Chain](https://img.shields.io/badge/-Lang%20Chain-05122A)
+📊 Data Science and Analysis:
+  - ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+  - ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+  - ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-05122A?style=flat)
 
 ---
+
+🤖 Machine Learning and NLP:
+  - ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)
+  - ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=tensorflow)
+  - ![NLP](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=nlp)
+  - ![Azure Cognitive Services](https://img.shields.io/badge/-Azure%20Cognitive%20Services-05122A?style=flat&logo=microsoft)
+
+---
+
+🚀 Web Development:
+  - ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+  - ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+
+---
+
+🧠 Generative AI:
+  - ![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A?style=flat)
+  - ![Lang Chain](https://img.shields.io/badge/-Lang%20Chain-05122A?style=flat)
+
 
 ## 💼 Experience
 
