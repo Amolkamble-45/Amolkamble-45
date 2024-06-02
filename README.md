@@ -17,15 +17,16 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 - ⚡ Fun fact: I love playing cricket in my free time!
 
 ---
-⚙️ Programming Languages and Tools:
-  - ![Python](https://img.shields.io/badge/-Python-05122A?&logo=python)  
-  - ![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=sql)
-  - ![HTML](https://img.shields.io/badge/-HTML-05122A?&logo=html5)
-  - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-  - ![Git/GitLab](https://img.shields.io/badge/-Git/GitLab-05122A?style=flat&logo=git)
-  - ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
-  - ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-  - ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+⚙️ Programming Languages and Tools:  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql) 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3) 
+![Git/GitLab](https://img.shields.io/badge/-Git/GitLab-05122A?style=flat&logo=git) 
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code) 
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+
 ---
 
 📊 Data Science and Analysis:
