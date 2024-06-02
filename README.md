@@ -125,8 +125,8 @@ Graduated with distinction, achieving an impressive 79%, reflecting a strong com
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=website&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amol-kamble-1897b6227/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=website&logoColor=white)](https://amolkamble-45.github.io/Amol_resume.github.io/)
 
 ---
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or just chat about tech. 😊
