@@ -19,17 +19,20 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 ---
 ### 🛠️ Technical Skills
 
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" />
-<img src="https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikit-learn" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/-NLP-05122A?style=flat&logo=nlp" alt="NLP" />
-<img src="https://img.shields.io/badge/-Azure%20Cognitive%20Services-05122A?style=flat&logo=microsoft" alt="Azure Cognitive Services" />
-<img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" alt="FastAPI" />
-<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite" alt="SQL" />
-<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" alt="Flask" />
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" />
-<img src="https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=tensorflow" alt="Deep Learning" />
-<img src="https://img.shields.io/badge/-Generative%20AI-05122A" alt="Generative AI" />
-<img src="https://img.shields.io/badge/-Lang%20Chain-05122A" alt="Lang Chain" />
+| Skill                 | Badge                                                                                      |
+|-----------------------|-------------------------------------------------------------------------------------------|
+| Python                | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)             |
+| Machine Learning      | ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikit-learn) |
+| NLP                   | ![NLP](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=nlp)                       |
+| Azure Cognitive Svcs  | ![Azure Cognitive Services](https://img.shields.io/badge/-Azure%20Cognitive%20Services-05122A?style=flat&logo=microsoft) |
+| FastAPI               | ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)           |
+| SQL                   | ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)                     |
+| Flask                 | ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)                 |
+| Git                   | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)                         |
+| Deep Learning         | ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=tensorflow) |
+| Generative AI         | ![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A)                       |
+| Lang Chain            | ![Lang Chain](https://img.shields.io/badge/-Lang%20Chain-05122A)                             |
+
 
 
 ## 🛠️ Technical Skills
