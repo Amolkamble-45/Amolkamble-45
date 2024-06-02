@@ -35,7 +35,10 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-05122A?style=flat)
+![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)
+![seaborn](https://img.shields.io/badge/-seaborn-05122A?style=flat&logo=seaborn)
+![plotly](https://img.shields.io/badge/-plotly-05122A?style=flat&logo=plotly)
+
 
 ---
 
@@ -60,10 +63,6 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-05122A?style=flat)
 ![Lang Chain](https://img.shields.io/badge/-Lang%20Chain-05122A?style=flat)
 ![Vector Database](https://img.shields.io/badge/-Vector%20Database-05122A?style=flat)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-
 
 ## 💼 Experience
 
