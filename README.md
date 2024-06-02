@@ -88,33 +88,40 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
   </p>
 </details>
 
+<details>
+  <summary>Tender BOT</summary>
+  <p>
+    - Led a Python-based tender bot project, automating daily web scraping for streamlined tender acquisition. Enhanced information distribution efficiency to teams.<br>
+    - Optimized the script to achieve a 3x speed improvement, significantly increasing tenders extracted. Refactored bot code for readability and maintainability.
+  </p>
+</details>
+
+<details>
+  <summary>IPL Match Winner Prediction</summary>
+  <p>
+    - Developed a Random Forest Classifier model predicting IPL match winners with 80% accuracy. Processed datasets with Python for data quality and model optimization.<br>
+    - Created a Flask-based web app for real-time match winner predictions, deploying the ML model.
+  </p>
+</details>
+
+<details>
+  <summary>Smart AMM</summary>
+  <p>
+    - Optimized the script for language identification and translation to achieve a 50% reduction in execution time and computational complexity.<br>
+    - Achieved 40% time savings with the Smart AMM tool for data analysis using Python and Pandas.
+  </p>
+</details>
+
+<details>
+  <summary>Proactive Monitoring</summary>
+  <p>
+    - Developed a comprehensive proactive monitoring dashboard using Dash and Plotly to visualize and analyze system performance metrics.<br>
+    - Built a deep learning model using LSTM to predict memory utilization with an accuracy of 87%, achieving a 25% improvement in operational efficiency.
+  </p>
+</details>
+
 ---
 
-
-## 🌟 Featured Projects
-
-### ![Translation Suite Icon](https://example.com/translation-icon.png) Translation Suite
-- Utilized Python and FastAPI to develop a robust backend system for a document translation suite, leveraging Azure AI Cognitive Services for AI translation and OCR.
-- Integrated GitLab for version control, ensuring efficient collaboration and code management throughout the project's lifecycle.
-- Developed a complex solution to translate documents with images using a custom translation API.
-- Implemented batch processing of documents.
-
-### Tender BOT
-- Led a Python-based tender bot project, automating daily web scraping for streamlined tender acquisition. Enhanced information distribution efficiency to teams.
-- Optimized the script to achieve a 3x speed improvement, significantly increasing tenders extracted. Refactored bot code for readability and maintainability.
-
-### IPL Match Winner Prediction
-- Developed a Random Forest Classifier model predicting IPL match winners with 80% accuracy. Processed datasets with Python for data quality and model optimization.
-- Created a Flask-based web app for real-time match winner predictions, deploying the ML model.
-
-### Smart AMM
-- Optimized the script for language identification and translation to achieve a 50% reduction in execution time and computational complexity.
-- Achieved 40% time savings with the Smart AMM tool for data analysis using Python and Pandas.
-
-### Proactive Monitoring
-- Developed a comprehensive proactive monitoring dashboard using Dash and Plotly to visualize and analyze system performance metrics.
-- Built a deep learning model using LSTM to predict memory utilization with an accuracy of 87%, achieving a 25% improvement in operational efficiency.
----
 
 ## 🎓 Education
 
