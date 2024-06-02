@@ -75,9 +75,25 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 - Created dashboards for proactive monitoring, analyzing system performance metrics, and implementing deep learning models.
 
 ---
+
+# 🌟 Featured Projects
+
+<details>
+  <summary>Translation Suite</summary>
+  <p>
+    - Utilized Python and FastAPI to develop a robust backend system for a document translation suite, leveraging Azure AI Cognitive Services for AI translation and OCR.<br>
+    - Integrated GitLab for version control, ensuring efficient collaboration and code management throughout the project's lifecycle.<br>
+    - Developed a complex solution to translate documents with images using a custom translation API.<br>
+    - Implemented batch processing of documents.
+  </p>
+</details>
+
+---
+
+
 ## 🌟 Featured Projects
 
-### Translation Suite
+### ![Translation Suite Icon](https://example.com/translation-icon.png) Translation Suite
 - Utilized Python and FastAPI to develop a robust backend system for a document translation suite, leveraging Azure AI Cognitive Services for AI translation and OCR.
 - Integrated GitLab for version control, ensuring efficient collaboration and code management throughout the project's lifecycle.
 - Developed a complex solution to translate documents with images using a custom translation API.
