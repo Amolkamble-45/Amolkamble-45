@@ -17,15 +17,19 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 - ⚡ Fun fact: I love playing cricket in my free time!
 
 ---
-⚙️ Programming Languages and Tools:
-  - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-  - ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
-  - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-  - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-  - ![Git/GitLab](https://img.shields.io/badge/-Git/GitLab-05122A?style=flat&logo=git)
-  - ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
-  - ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-  - ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+### 🛠️ Technical Skills
+
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" />
+<img src="https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikit-learn" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/-NLP-05122A?style=flat&logo=nlp" alt="NLP" />
+<img src="https://img.shields.io/badge/-Azure%20Cognitive%20Services-05122A?style=flat&logo=microsoft" alt="Azure Cognitive Services" />
+<img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" alt="FastAPI" />
+<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite" alt="SQL" />
+<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" alt="Flask" />
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" />
+<img src="https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=tensorflow" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/-Generative%20AI-05122A" alt="Generative AI" />
+<img src="https://img.shields.io/badge/-Lang%20Chain-05122A" alt="Lang Chain" />
 
 
 ## 🛠️ Technical Skills
