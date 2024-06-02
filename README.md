@@ -90,7 +90,7 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 
 <details>
   <summary>Tender BOT</summary>
-  <p>
+  <p style="color:blue;text-align:center;">
     - Led a Python-based tender bot project, automating daily web scraping for streamlined tender acquisition. Enhanced information distribution efficiency to teams.<br>
     - Optimized the script to achieve a 3x speed improvement, significantly increasing tenders extracted. Refactored bot code for readability and maintainability.
   </p>
