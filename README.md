@@ -61,6 +61,9 @@ Hi there! I'm **Amol Kamble** 👨‍💻, an experienced Python Developer with 
 ![Lang Chain](https://img.shields.io/badge/-Lang%20Chain-05122A?style=flat)
 ![Vector Database](https://img.shields.io/badge/-Vector%20Database-05122A?style=flat)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+
 
 ## 💼 Experience
 
